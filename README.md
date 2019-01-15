@@ -19,7 +19,13 @@
   
   console.log(test());
   ```
-
+  answer = 
+  Aurelio De Rosa
+  Aurelio De Rosa
+  
+ it first calls the function getFullname which returns the name aurelio de rosa
+ then it also calling a function 
+  
 2. What will you see in the console for the following example?
   ```
   var a = 1; 
@@ -31,6 +37,12 @@
   b(); 
   console.log(a);    
   ```
+answer = 
+10
+1
+it first calls the function first theb it is calling the variable
+
+
 
 * Create an array called ```peopleList``` objects using *Object Literal* notation. 
 
